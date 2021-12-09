@@ -1,2 +1,4 @@
 Zmiana2
 Zmiana3
+Zmiana4
+prostaWersja
